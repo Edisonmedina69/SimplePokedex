@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simple Pokedex</string>
+    <string name="error_message">Error Message</string>
+    <string name="end_point">https://leodufer.github.io/simple-pokedex</string>
+    <string name="error_al_obtener_los_pokemones">Error al obtener los pokemones</string>
+</resources>
